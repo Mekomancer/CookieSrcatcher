@@ -1,0 +1,9 @@
+.noselect {
+	-moz-user-select: none;
+	-webkit-user-select: none;
+}
+.biscutstyle {
+	height:248px;
+	width:248px;
+	object-position:left 8px
+}
